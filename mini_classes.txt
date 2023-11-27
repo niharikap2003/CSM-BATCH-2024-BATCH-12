@@ -4,24 +4,17 @@ ambulance
 angel
 animal migration
 ant
-anvil
 apple
 arm
-asparagus
 axe
 backpack
 banana
 bandage
-barn
-baseball
-baseball bat
-basket
 basketball
 bat
 bathtub
 beach
 bear
-beard
 bed
 bee
 belt
@@ -30,20 +23,11 @@ bicycle
 binoculars
 bird
 birthday cake
-blackberry
-blueberry
 book
-boomerang
-bottlecap
-bowtie
-bracelet
 brain
 bread
 bridge
-broccoli
-broom
 bucket
-bulldozer
 bus
 bush
 butterfly
@@ -63,13 +47,9 @@ carrot
 castle
 cat
 ceiling fan
-cello
 cell phone
 chair
-chandelier
-church
 circle
-clarinet
 clock
 cloud
 coffee cup
@@ -77,7 +57,6 @@ compass
 computer
 cookie
 cooler
-couch
 cow
 crab
 crayon
@@ -86,14 +65,12 @@ crown
 cruise ship
 cup
 diamond
-dishwasher
 diving board
 dog
 dolphin
 donut
 door
 dragon
-dresser
 drill
 drums
 duck
@@ -114,10 +91,7 @@ fire hydrant
 fireplace
 firetruck
 fish
-flamingo
 flashlight
-flip flops
-floor lamp
 flower
 flying saucer
 foot
@@ -127,7 +101,6 @@ frying pan
 garden
 garden hose
 giraffe
-goatee
 golf club
 grapes
 grass
@@ -180,62 +153,39 @@ map
 marker
 matches
 megaphone
-mermaid
 microphone
-microwave
-monkey
 moon
-mosquito
 motorbike
 mountain
-mouse
-moustache
-mouth
 mug
 mushroom
-nail
 necklace
-nose
 ocean
 octagon
 octopus
-onion
-oven
-owl
 paintbrush
-paint can
 palm tree
 panda
-pants
 paper clip
 parachute
 parrot
 passport
-peanut
 pear
-peas
 pencil
 penguin
 piano
-pickup truck
 picture frame
-pig
-pillow
 pineapple
 pizza
-pliers
 police car
 pond
-pool
 postcard
-potato
 power outlet
 purse
 rabbit
 radio
 rain
 rainbow
-rhinoceros
 rifle
 river
 sailboat
@@ -244,8 +194,6 @@ saw
 school bus
 scissors
 scorpion
-screwdriver
-sea turtle
 see saw
 shark
 sheep
@@ -253,7 +201,6 @@ shoe
 shorts
 skateboard
 skull
-sleeping bag
 smiley face
 snail
 snake
@@ -261,15 +208,10 @@ snowflake
 snowman
 soccer ball
 sock
-speedboat
-spider
-spoon
 spreadsheet
 square
-squirrel
 stairs
-star
-stereo
+star              
 stethoscope
 stitches
 stop sign
@@ -280,7 +222,6 @@ submarine
 suitcase
 sun
 swan
-sweater
 swing set
 sword
 syringe
@@ -290,11 +231,8 @@ telephone
 television
 tent
 tiger
-toaster
-toe
 tooth
 tornado
-tractor
 traffic light
 train
 tree
@@ -305,10 +243,7 @@ umbrella
 van
 vase
 violin
-washing machine
 watermelon
-waterslide
-whale
 wheel
 windmill
 wristwatch
