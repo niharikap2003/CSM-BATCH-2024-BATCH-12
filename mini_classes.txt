@@ -211,7 +211,7 @@ sock
 spreadsheet
 square
 stairs
-star              
+star
 stethoscope
 stitches
 stop sign
