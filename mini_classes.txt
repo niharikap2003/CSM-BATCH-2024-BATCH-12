@@ -1,117 +1,250 @@
 airplane
 alarm clock
+ambulance
+angel
+animal migration
 ant
 apple
+arm
+axe
 backpack
 banana
+bandage
 basketball
+bat
+bathtub
 beach
+bear
 bed
 bee
+belt
+bench
 bicycle
+binoculars
 bird
+birthday cake
 book
+brain
 bread
 bridge
 bucket
 bus
+bush
 butterfly
 cactus
 cake
+calculator
+calendar
+camel
 camera
+camouflage
 campfire
 candle
 cannon
+canoe
 car
 carrot
+castle
 cat
 ceiling fan
 cell phone
 chair
 circle
+clock
 cloud
+coffee cup
+compass
 computer
+cookie
+cooler
+cow
+crab
+crayon
+crocodile
 crown
+cruise ship
 cup
 diamond
+diving board
 dog
+dolphin
 donut
 door
+dragon
+drill
+drums
 duck
+dumbbell
 ear
+elbow
 elephant
 envelope
+eraser
 eye
+eyeglasses
 face
+fan
+feather
+fence
 finger
 fire hydrant
+fireplace
+firetruck
 fish
 flashlight
 flower
+flying saucer
 foot
 fork
+frog
+frying pan
+garden
+garden hose
+giraffe
+golf club
 grapes
 grass
+guitar
+hamburger
 hammer
 hand
+harp
 hat
+headphones
+hedgehog
 helicopter
 helmet
 hexagon
+hockey puck
 hockey stick
 horse
 hospital
+hot air balloon
+hot dog
+hot tub
 hourglass
 house
+house plant
+hurricane
 ice cream
+jacket
 jail
+kangaroo
+key
+keyboard
+knee
+knife
 ladder
+lantern
 laptop
 leaf
+leg
 light bulb
+lighter
+lighthouse
 lightning
 line
+lion
+lipstick
+lobster
 lollipop
+mailbox
 map
+marker
+matches
+megaphone
+microphone
 moon
+motorbike
 mountain
 mug
 mushroom
 necklace
+ocean
 octagon
+octopus
+paintbrush
+palm tree
+panda
 paper clip
+parachute
+parrot
+passport
 pear
 pencil
+penguin
+piano
+picture frame
 pineapple
 pizza
+police car
+pond
+postcard
+power outlet
+purse
+rabbit
 radio
 rain
 rainbow
 rifle
+river
+sailboat
+sandwich
+saw
+school bus
 scissors
+scorpion
+see saw
+shark
+sheep
+shoe
 shorts
+skateboard
 skull
 smiley face
 snail
 snake
+snowflake
+snowman
 soccer ball
 sock
+spreadsheet
 square
 stairs
 star
+stethoscope
+stitches
 stop sign
+stove
 strawberry
+streetlight
 submarine
 suitcase
 sun
+swan
+swing set
 sword
+syringe
 table
+teddy-bear
+telephone
 television
+tent
+tiger
+tooth
+tornado
+traffic light
 train
 tree
 triangle
+truck
 t-shirt
 umbrella
+van
+vase
+violin
+watermelon
 wheel
 windmill
+wristwatch
 zigzag
